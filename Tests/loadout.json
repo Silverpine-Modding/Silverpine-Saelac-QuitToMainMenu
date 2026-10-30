@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "enabled": true,
+  "allowEmptyInventory": false,
+  "gold": 9999,
+  "items": [
+    { "template": "Iron Sword", "quantity": 1, "custom": false },
+    { "template": "Linen Robe", "quantity": 1, "custom": false },
+    { "template": "Linen Pants", "quantity": 1, "custom": false },
+    { "template": "Waterskin", "quantity": 1, "custom": false },
+    { "template": "Loaf of Bread", "quantity": 3, "custom": false }
+  ]
+}

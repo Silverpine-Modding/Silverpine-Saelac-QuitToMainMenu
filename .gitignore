@@ -1,0 +1,11 @@
+**/bin/
+**/obj/
+.vs/
+.idea/
+*.user
+*.suo
+*.dll
+*.exe
+*.pdb
+artifacts/
+TestData/
